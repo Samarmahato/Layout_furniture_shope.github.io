@@ -1,4 +1,4 @@
-#click : https://samarmahato.github.io/Layout_furniture_shope.github.io/
+# click : https://samarmahato.github.io/Layout_furniture_shope.github.io/
 # Codding Website-iCoder 
 ## About the Project💡
 Events webpage plays a vital role in promoting and booking for an event. In this project, I am build an event page, it will contain the details of the events like date, booking option and view more details button. We will use HTML to give the basic layout like title, details, buttons etc. and CSS will give a beautiful design to our layout like text-decoration, text color, background color, text alignment, margin, padding, box floating etc.
